@@ -17,4 +17,4 @@ Nim: 312410118
 5. Melakukan validasi HTML di [validator.w3.org](http://validator.w3.org)
 
 ## Hasil Tampilan
-![Tampilan](Lab6.png)
+![Tampilan](lab6.png)
