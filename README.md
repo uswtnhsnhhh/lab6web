@@ -1,6 +1,6 @@
 # Lab6Web
-Nama: Naufal Rafi Haryanto
-Nim: 312410118
+Nama: Uswatun Hasanah
+Nim: 312410163
 
 # Praktikum 6: Web Framework
 
